@@ -18,7 +18,7 @@
   <groupId>org.jboss.shrinkwrap.container</groupId>
   <artifactId>shrinkwrap-container-glassfish-31</artifactId>
   <name>ShrinkWrap Extension GlassFish</name>
-  <version>1.0.0-beta-1-SNAPSHOT</version>
+  <version>1.0.0-beta-1</version>
   <description>ShrinkWrap extension for the GlassFish Project</description>
 
 
